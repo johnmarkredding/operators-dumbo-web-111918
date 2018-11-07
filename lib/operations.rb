@@ -1,4 +1,4 @@
-666766def unsafe?(speed)
+def unsafe?(speed)
 
 end
 
